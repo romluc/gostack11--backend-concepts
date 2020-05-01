@@ -1,4 +1,4 @@
-# gostack11--backend-concepts
+# gostack11--backend-concepts 🚀
 Back-end concepts from Rocketseat's GoStack 11
 
 ## Project created to practice concepts related to CRUD operations 
