@@ -1,7 +1,10 @@
 const express = require('express');
+const cors = require('cors');
 const { uuid } = require('uuidv4');
 
 const app = express();
+
+app.use(cors());
 
 // So we can retrieve body request info
 app.use(express.json());
